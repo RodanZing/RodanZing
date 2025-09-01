@@ -3,10 +3,7 @@
 <!-- Github Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=RodanZing&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodanZing&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodanZing&theme=radical)
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Rohdofa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikmal-t-3703201b3) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodanZing&theme=radical) 
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -16,10 +13,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RodanZing&icon=0&color=4)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IkmalTajussubchi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nobodyx6258) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
